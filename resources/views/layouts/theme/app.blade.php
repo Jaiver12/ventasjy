@@ -142,7 +142,7 @@
                 text: msg.toUpperCase(),
                 actionText: 'CERRAR',
                 actionTextColor: '#fff',
-                backgroundColor = option == 1 ? '#3b3f5c' : '#e7515a',
+                backgroundColor : option == 1 ? '#3b3f5c' : '#e7515a',
                 pos: 'top-right'
             })
         }
